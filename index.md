@@ -1,8 +1,9 @@
 ---
+title: Home
 output: html_document
 ---
 
-# ORMGP Github Pages:
+# ORMGP Github Pages
 
 - [Metadata](https://owrc.github.io/metadata/content/toc.html)
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
@@ -31,6 +32,6 @@ output: html_document
 
 <!-- # Help -->
 
-## Markdown "Cheatsheets":
+## Markdown "Cheatsheets"
 - [GitHub Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Math equations](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
