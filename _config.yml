@@ -1,0 +1,5 @@
+title: Oak Ridges Moraine Groundwater Program
+markdown: kramdown
+kramdown:
+    math_engine: katex
+theme: jekyll-theme-slate
