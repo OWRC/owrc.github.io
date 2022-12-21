@@ -1,5 +1,4 @@
 ---
-title: asdf
 output: html_document
 ---
 
@@ -16,6 +15,7 @@ output: html_document
 - [Database Snapshots](https://owrc.github.io/snapshots/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
 - [General Information](https://owrc.github.io/info/)<!-- , also:  -->
+
   <!-- - [Evaporation](https://owrc.github.io/info/evaporation/)
   - [Geothermal modelling](https://owrc.github.io/info/geothermal/)
   - [Hydrograph separation](https://owrc.github.io/info/hydrographseparation/)
@@ -30,6 +30,7 @@ output: html_document
 <!-- - [Logos](https://github.com/OWRC/logos) -->
 
 <!-- # Help -->
+
 ## Markdown "Cheatsheets":
-- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-- http://tug.ctan.org/info/undergradmath/undergradmath.pdf
+- [GitHub Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+- [Math equations](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
