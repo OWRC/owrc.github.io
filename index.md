@@ -5,6 +5,8 @@ output: html_document
 
 > [**View us on GitHub**](https://github.com/OWRC)
 
+> [**Our homepage**](https://www.oakridgeswater.ca/)
+
 # ORMGP Github Pages
 
 - [Metadata](https://owrc.github.io/metadata/content/toc.html)
