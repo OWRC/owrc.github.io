@@ -17,6 +17,7 @@ output: html_document
 - Planning
 - [Data Products and Interpolation](https://owrc.github.io/interpolants/)
   - [Near real-time climatology](https://owrc.github.io/interpolants/interpolation/climate-sources.html)
+- [Numerical Model Custodianship Program](https://owrc.github.io/snapshots/md/numerical-model-custodianship-program.html)
 - [Database Snapshots](https://owrc.github.io/snapshots/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
 - [General Information](https://owrc.github.io/info/)<!-- , also:  -->
@@ -36,6 +37,10 @@ output: html_document
 
 <!-- # Help -->
 
+## Shiny Apps
+
+- [sHydrology](https://owrc.shinyapps.io/shydrologymap/)
+
 ## Markdown "Cheatsheets"
 - [GitHub Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- [Math equations](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
+- [How to write math equations like $S_s\frac{\partial h}{\partial h} = K\nabla^2 h - G$](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
