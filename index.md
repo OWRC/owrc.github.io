@@ -9,6 +9,12 @@ output: html_document
 
 # ORMGP Github Pages
 
+## By category
+
+- [Program Background](background.html)
+
+## Quick links
+
 - [Metadata](https://owrc.github.io/metadata/content/toc.html)
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Web Mapping Themes](https://owrc.github.io/webmapping/)
