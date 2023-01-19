@@ -12,6 +12,10 @@ output: html_document
 ## By category
 
 - [Program Background](background.html)
+- [Publications & Reports](publications.html)
+- [Products and Interpolation ](products.html)
+- [Support](support.html)
+
 
 ## Quick links
 
