@@ -4,5 +4,6 @@ output: html_document
 ---
 
 
-- Planning
-- Hydro
+- Papers & abstracts
+- Areas of concern
+- External resources

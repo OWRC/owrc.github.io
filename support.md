@@ -4,5 +4,11 @@ output: html_document
 ---
 
 
-- Planning
-- Hydro
+- Join our program
+- Website training
+- Database Manual
+- Analyses & Metadata
+- Mapping Support
+- Contact Us 
+- [Site map](https://owrc.github.io/)
+
