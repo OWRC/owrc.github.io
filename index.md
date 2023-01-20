@@ -11,10 +11,10 @@ output: html_document
 
 ## By category
 
-- [Program Background](background.html)
-- [Publications & Reports](publications.html)
-- [Products and Interpolation ](products.html)
-- [Support](support.html)
+- [Program Background](https://owrc.github.io/background.html)
+- [Publications & Reports](https://owrc.github.io/publications.html)
+- [Products and Interpolation ](https://owrc.github.io/products.html)
+- [Support](https://owrc.github.io/support.html)
 
 
 ## Quick links
