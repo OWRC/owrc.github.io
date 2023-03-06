@@ -42,10 +42,6 @@ output: html_document
   - [Solar Radiation Transmittance](https://owrc.github.io/info/solarradiation/) -->
 
 
-<!-- # Resources -->
-<!-- - [Logos](https://github.com/OWRC/logos) -->
-
-<!-- # Help -->
 
 ## Shiny Apps
 
@@ -56,9 +52,23 @@ output: html_document
 
 ## Logos
 
-![](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo.png)
+### Large
+
+![logolarge](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo.png)
+
+### Small
+
+![logosmall](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo_vsmall.png)
+
+### No text
+
+![logonotext](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo_no_text.png)
+
 
 [*more..*](https://github.com/OWRC/logos)
+
+
+
 
 ## Markdown "Cheatsheets"
 - [GitHub Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
