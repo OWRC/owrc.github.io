@@ -5,7 +5,7 @@ output: html_document
 
 > [**View us on GitHub**](https://github.com/OWRC)
 
-> [**Our homepage**](https://www.oakridgeswater.ca/)
+> [**Our homepage: oakridgeswater.ca**](https://www.oakridgeswater.ca/)
 
 # ORMGP Github Pages
 
@@ -50,6 +50,15 @@ output: html_document
 ## Shiny Apps
 
 - [sHydrology](https://owrc.shinyapps.io/shydrologymap/)
+
+
+# Help and Resources
+
+## Logos
+
+![](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo.png)
+
+[*more..*](https://github.com/OWRC/logos)
 
 ## Markdown "Cheatsheets"
 - [GitHub Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
