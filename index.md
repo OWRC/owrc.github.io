@@ -46,7 +46,7 @@ output: html_document
 ## Shiny Apps
 
 - [sHydrology](https://owrc.shinyapps.io/shydrologymap/)
-
+- [automated baseflow pickup calculation](https://owrc.shinyapps.io/pickup/) *beta version, to be included in our partners' portal*
 
 # Help and Resources
 
