@@ -81,4 +81,4 @@ output: html_document
 
 ## "Sitemap"
 
-<iframe src="https://raw.githubusercontent.com/OWRC/snapshots/main/sitemap/sitemapD3.html" width="100%" height="400" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://golang.oakridgeswater.ca/pages/sitemapD3.html" width="100%" height="400" scrolling="no" allowfullscreen></iframe>
