@@ -20,6 +20,7 @@ output: html_document
 ## Quick links
 
 - [Metadata](https://owrc.github.io/metadata/content/toc.html)
+- [Data sources](https://owrc.github.io/interpolants/sources/sources.html)
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Web Mapping Themes](https://owrc.github.io/webmapping/)
 - [Geologic Layers](https://owrc.github.io/GeoLayers/)
