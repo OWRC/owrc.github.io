@@ -3,11 +3,11 @@ title: Home
 output: html_document
 ---
 
+> [**Our Homepage: oakridgeswater.ca**](https://www.oakridgeswater.ca/)
+
 > [**View us on GitHub**](https://github.com/OWRC)
 
-> [**Our homepage: oakridgeswater.ca**](https://www.oakridgeswater.ca/)
-
-# ORMGP Github Pages
+<br>
 
 ## By category
 
@@ -80,6 +80,7 @@ output: html_document
 
 
 
-## "Sitemap"
+# Topological Sitemap
 
 <iframe src="https://golang.oakridgeswater.ca/pages/sitemapD3.html" width="100%" height="800" scrolling="no" allowfullscreen></iframe>
+
