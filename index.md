@@ -68,6 +68,10 @@ output: html_document
 
 ![logonotext](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo_no_text.png)
 
+### Vector
+
+![logovector](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo.svg)
+
 
 [*more..*](https://github.com/OWRC/logos)
 
