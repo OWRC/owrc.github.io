@@ -56,22 +56,30 @@ output: html_document
 
 ## Logos
 
-### Large
+### PNG
+
+#### Large
 
 ![logolarge](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo.png)
 
-### Small
+#### Small
 
 ![logosmall](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo_vsmall.png)
 
-### No text
+#### No text
 
-![logonotext](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo_no_text.png)
+<!-- ![logonotext](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo_no_text.png) -->
 
-### Vector
+<img src="https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo_no_text.png" alt="logonotext" width="200"/>
+
+
+### SVG
 
 ![logovector](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo.svg)
 
+![logovectornotext](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo-only.svg)
+
+<br>
 
 [*more..*](https://github.com/OWRC/logos)
 
