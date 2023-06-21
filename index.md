@@ -23,7 +23,7 @@ output: html_document
 - [Data sources](https://owrc.github.io/interpolants/sources/sources.html)
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Web Mapping Themes](https://owrc.github.io/webmapping/)
-- [Geologic Layers](https://owrc.github.io/GeoLayers/)
+- [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
 - [Monitoring](https://owrc.github.io/monitoring/)
 - Planning
 - [Data Products and Interpolation](https://owrc.github.io/interpolants/)
