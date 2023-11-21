@@ -46,10 +46,13 @@ output: html_document
 
 - [sHydrograph (map) help](https://owrc.github.io/HydrographExplorerHelp/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
+- [ORMGP spatial data (.geojson)](https://github.com/OWRC/geojson)
 
 ## Shiny Apps
 
 - [sHydrology](https://owrc.shinyapps.io/shydrologymap/)
+- [sHyMeteorology](https://owrc.shinyapps.io/sHyMet/)
+- [ORMGP subwatershed topology](https://owrc.shinyapps.io/sws23/)
 - [automated baseflow pickup calculation](https://owrc.shinyapps.io/pickup/) *beta version, to be included in our partners' portal*
 
 # Help and Resources
