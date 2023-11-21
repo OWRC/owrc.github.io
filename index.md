@@ -95,7 +95,7 @@ output: html_document
 
 
 
-# Topological Sitemap
+# Sitemap
 
 <!-- built with: snapshots-private\sitemap -->
 <iframe src="https://golang.oakridgeswater.ca/pages/sitemapD3.html" width="100%" height="800" scrolling="no" allowfullscreen></iframe>
