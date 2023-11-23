@@ -1,11 +1,18 @@
 ---
-title: Home
+title: GitHub Pages Home
 output: html_document
 ---
+
+
+This is the home page for the documentation we have published in the form of ["GitHub Pages"](https://pages.github.com/). 
+
 
 > [**Our Homepage: oakridgeswater.ca**](https://www.oakridgeswater.ca/)
 
 > [**View us on GitHub**](https://github.com/OWRC)
+
+> [**Partners' mapping portal**](https://partners.oakridgeswater.ca/Maps)
+
 
 <br>
 
@@ -19,14 +26,14 @@ output: html_document
 
 ## Quick links
 
-- [Metadata](https://owrc.github.io/metadata/content/toc.html)
+- [**Metadata**](https://owrc.github.io/metadata/content/toc.html)
 - [Data sources](https://owrc.github.io/interpolants/sources/sources.html)
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Web Mapping Themes](https://owrc.github.io/webmapping/)
 - [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
 - [Monitoring](https://owrc.github.io/monitoring/)
 - Planning
-- [Data Products and Interpolation](https://owrc.github.io/interpolants/)
+- [Data **Products** and **Interpolation**](https://owrc.github.io/interpolants/)
   - [Near real-time climatology](https://owrc.github.io/interpolants/interpolation/climate-sources.html)
 - [Numerical Model Custodianship Program](https://owrc.github.io/snapshots/md/numerical-model-custodianship-program.html)
 - [Database **Snapshots**](https://owrc.github.io/snapshots/)
@@ -50,7 +57,8 @@ output: html_document
 
 ## Shiny Apps
 
-- [sHydrology](https://owrc.shinyapps.io/shydrologymap/)
+- [Time Series analysis](https://owrc.shinyapps.io/shydrologymap/)
+- [sHydrology](https://owrc.shinyapps.io/shydrology/)
 - [sHyMeteorology](https://owrc.shinyapps.io/sHyMet/)
 - [ORMGP subwatershed topology](https://owrc.shinyapps.io/sws23/)
 - [automated baseflow pickup calculation](https://owrc.shinyapps.io/pickup/) *beta version, to be included in our partners' portal*
