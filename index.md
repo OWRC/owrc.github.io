@@ -32,11 +32,12 @@ This is the home page for the documentation we have published in the form of ["G
 - [Web Mapping Themes](https://owrc.github.io/webmapping/)
 - [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
 - [Monitoring](https://owrc.github.io/monitoring/)
-- Planning
+<!-- - Planning -->
 - [Data **Products** and **Interpolation**](https://owrc.github.io/interpolants/)
   - [Near real-time climatology](https://owrc.github.io/interpolants/interpolation/climate-sources.html)
 - [Numerical Model Custodianship Program](https://owrc.github.io/snapshots/md/numerical-model-custodianship-program.html)
 - [Database **Snapshots**](https://owrc.github.io/snapshots/)
+- [**Clip 'n Ship**](https://owrc.github.io/interpolants/sources/clipnship.html)
 - [General Information](https://owrc.github.io/info/)<!-- , also:  -->
 
   <!-- - [Evaporation](https://owrc.github.io/info/evaporation/)
