@@ -42,20 +42,20 @@ This is the home page for the documentation we have published in the form of ["G
 - [Database **Snapshots**](https://owrc.github.io/snapshots/)
 - [**Clip 'n Ship**](https://owrc.github.io/interpolants/sources/clipnship.html)
 
-<!-- , also:  -->
-  <!-- - [Evaporation](https://owrc.github.io/info/evaporation/)
+
+
+
+## Help and Resources
+
+- [General/Educational Information](https://owrc.github.io/info/)
+  - [Evaporation](https://owrc.github.io/info/evaporation/)
   - [Geothermal modelling](https://owrc.github.io/info/geothermal/)
   - [Hydrograph separation](https://owrc.github.io/info/hydrographseparation/)
   - [hydrograph disaggregation](https://owrc.github.io/info/hydrographdisaggregation/)
   - [Streamflow recession coefficient](https://owrc.github.io/info/recessioncoefficient/)
   - [Multiphase flow through porous media](https://owrc.github.io/info/pmflow/)
   - [Shallow water overland flow](https://owrc.github.io/info/lia/)
-  - [Solar Radiation Transmittance](https://owrc.github.io/info/solarradiation/) -->
-
-
-## Help and Resources
-
-- [General/Educational Information](https://owrc.github.io/info/)
+  - [Solar Radiation Transmittance](https://owrc.github.io/info/solarradiation/)
 - [sHydrograph (map) help](https://owrc.github.io/HydrographExplorerHelp/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
 - [ORMGP spatial data (.geojson)](https://github.com/OWRC/geojson)
@@ -64,7 +64,8 @@ This is the home page for the documentation we have published in the form of ["G
 
 - [Time Series analysis](https://owrc.shinyapps.io/shydrologymap/)
 - [sHydrology](https://owrc.shinyapps.io/shydrology/)
-- [sHyMeteorology](https://owrc.shinyapps.io/sHyMet/)
+- [sHyClimate](https://owrc.shinyapps.io/sHyMet/)
+- [sHyMeteorology (real-time data service)](https://owrc.shinyapps.io/sHyMetDS/?lat=44.138&lng=-79.113)
 - [ORMGP subwatershed topology](https://owrc.shinyapps.io/sws23/)
 - [automated baseflow pickup calculation](https://owrc.shinyapps.io/pickup/) *beta version, to be included in our partners' portal*
 
