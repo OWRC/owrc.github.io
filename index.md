@@ -16,30 +16,33 @@ This is the home page for the documentation we have published in the form of ["G
 
 <br>
 
-## By category
+<!-- ## By category
 
 - [Program Background](https://owrc.github.io/background.html)
 - [Publications & Reports](https://owrc.github.io/publications.html)
 - [Products and Interpolation ](https://owrc.github.io/products.html)
-- [Support](https://owrc.github.io/support.html)
+- [Support](https://owrc.github.io/support.html) -->
 
 
-## Quick links
+## Data Sources and Management
 
-- [**Metadata**](https://owrc.github.io/metadata/content/toc.html)
-- [Data sources](https://owrc.github.io/interpolants/sources/sources.html)
+- [**Metadata**](https://owrc.github.io/metadata/content/toc.html) (for ORMGP-produced layers)
+- [External Data Sources](https://owrc.github.io/interpolants/sources/sources.html) regularly imported into our data warehouse
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
-- [Web Mapping Themes](https://owrc.github.io/webmapping/)
 - [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
+- [Spatial **Interpolation**](https://owrc.github.io/interpolants/)
+
+
+## ORMGP Programs and Services
+
 - [Monitoring](https://owrc.github.io/monitoring/)
-<!-- - Planning -->
-- [Data **Products** and **Interpolation**](https://owrc.github.io/interpolants/)
-  - [Near real-time climatology](https://owrc.github.io/interpolants/interpolation/climate-sources.html)
+- [Web Mapping Themes](https://owrc.github.io/webmapping/)
+- Near Real-time [**Climate Data Service**](https://owrc.github.io/interpolants/interpolation/climate-sources.html)
 - [Numerical Model Custodianship Program](https://owrc.github.io/snapshots/md/numerical-model-custodianship-program.html)
 - [Database **Snapshots**](https://owrc.github.io/snapshots/)
 - [**Clip 'n Ship**](https://owrc.github.io/interpolants/sources/clipnship.html)
-- [General Information](https://owrc.github.io/info/)<!-- , also:  -->
 
+<!-- , also:  -->
   <!-- - [Evaporation](https://owrc.github.io/info/evaporation/)
   - [Geothermal modelling](https://owrc.github.io/info/geothermal/)
   - [Hydrograph separation](https://owrc.github.io/info/hydrographseparation/)
@@ -50,8 +53,9 @@ This is the home page for the documentation we have published in the form of ["G
   - [Solar Radiation Transmittance](https://owrc.github.io/info/solarradiation/) -->
 
 
-## Help and resources
+## Help and Resources
 
+- [General/Educational Information](https://owrc.github.io/info/)
 - [sHydrograph (map) help](https://owrc.github.io/HydrographExplorerHelp/)
 - [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
 - [ORMGP spatial data (.geojson)](https://github.com/OWRC/geojson)
