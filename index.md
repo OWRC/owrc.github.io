@@ -66,7 +66,6 @@ This is the home page for the documentation we have published in the form of ["G
 
 - [Time Series analysis](https://owrc.shinyapps.io/shydrologymap/)
 - [sHydrology](https://owrc.shinyapps.io/shydrology/)
-- [sHyClimate](https://owrc.shinyapps.io/sHyMet/)
 - [sHyMeteorology (real-time data service)](https://owrc.shinyapps.io/sHyMetDS/?lat=44.138&lng=-79.113)
 - [ORMGP subwatershed topology](https://owrc.shinyapps.io/sws23/)
 - [automated baseflow pickup calculation](https://owrc.shinyapps.io/pickup/) *beta version, to be included in our partners' portal*
