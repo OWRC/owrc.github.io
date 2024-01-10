@@ -30,7 +30,7 @@ This is the home page for the documentation we have published in the form of ["G
 - [External Data Sources](https://owrc.github.io/interpolants/sources/sources.html) regularly imported into our data warehouse
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
-- [Spatial **Interpolation**](https://owrc.github.io/interpolants/)
+- [Data **Products** and Spatial **Interpolation**](https://owrc.github.io/interpolants/)
 
 
 
