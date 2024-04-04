@@ -27,7 +27,7 @@ This is the home page for the documentation we have published in the form of ["G
 ## Data Sources and Management
 
 - [**Metadata**](https://owrc.github.io/metadata/content/toc.html) (for ORMGP-produced layers)
-- [External Data Sources](https://owrc.github.io/interpolants/sources/sources.html) regularly imported into our data warehouse
+- [External Data Sources](https://owrc.github.io/interpolants/sources/) regularly imported into our data warehouse
 - [Database Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
 - [Data **Products** and Spatial **Interpolation**](https://owrc.github.io/interpolants/)
