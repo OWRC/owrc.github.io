@@ -65,7 +65,7 @@ This is the home page for the documentation we have published in the form of ["G
   - [Shallow water overland flow](https://owrc.github.io/info/lia/)
   - [Solar Radiation Transmittance](https://owrc.github.io/info/solarradiation/)
 - [sHydrograph (map) help](https://owrc.github.io/HydrographExplorerHelp/)
-- [R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
+- [sHydrology--R-Shiny Applications Manual](https://owrc.github.io/shinyapps-manual/)
 - [ORMGP spatial data (.geojson)](https://github.com/OWRC/geojson)
 - [Glossary](/interpolants/glossary.html)
 
