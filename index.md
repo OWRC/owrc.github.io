@@ -107,12 +107,17 @@ This is the home page for the documentation we have published in the form of ["G
 
 ![logovectornotext](https://raw.githubusercontent.com/OWRC/logos/main/ORMGP_logo-only.svg)
 
-<br>
-
 [*more..*](https://github.com/OWRC/logos)
 
+<br>
 
+## Images
 
+![](fig/ORMGP-image_small.png)
+
+![](fig/ORMGP_3D.png)
+
+<br>
 
 ## Markdown "Cheatsheets"
 - [GitHub Wiki](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
