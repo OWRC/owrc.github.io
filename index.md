@@ -30,16 +30,17 @@ This is the home page for the documentation we have published in the form of ["G
 - [External Data Sources](https://owrc.github.io/interpolants/sources/) regularly imported into our data warehouse
 - [**Database** Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
-- [Resources](https://owrc.github.io/interpolants/):
+- [Data **Products** and Spatial **Interpolation**](https://owrc.github.io/interpolants/):
   - [Data Warehousing](/interpolants/#data-warehousing)
   - [Data Sources](/interpolants/#data-sources)
   - [Web Applications](/interpolants/#web-applications)
   - [Open Data Products](/interpolants/#open-data-products)
   - [Numerical Modelling](/interpolants/#numerical-modelling)
   - [Technologies](/interpolants/#technologies)
-- [Data **Products** and Spatial **Interpolation**](/interpolants/interpolation)
+- [Interpolation](/interpolants/interpolation)
 - [Data Management](/interpolants/datamanagement)
 - [Tools](/interpolants/tools)
+
 
 ## ORMGP Programs and Services
 
@@ -56,7 +57,7 @@ This is the home page for the documentation we have published in the form of ["G
 
 ## Help and Resources
 
-- [General/Educational Information](https://owrc.github.io/info/)
+- [General/Educational **Information**](https://owrc.github.io/info/)
   - [Evaporation](https://owrc.github.io/info/evaporation/)
   - [Geothermal modelling](https://owrc.github.io/info/geothermal/)
   - [Hydrograph separation](https://owrc.github.io/info/hydrographseparation/)
