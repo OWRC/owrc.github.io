@@ -31,13 +31,13 @@ This is the home page for the documentation we have published in the form of ["G
 - [**Database** Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
 - [Data **Products** and Spatial **Interpolation**](https://owrc.github.io/interpolants/):
-  - [Data Warehousing](/interpolants/#data-warehousing)
-  - [Data Sources](/interpolants/#data-sources)
-  - [Web Applications](/interpolants/#web-applications)
-  - [Open Data Products](/interpolants/#open-data-products)
-  - [Numerical Modelling](/interpolants/#numerical-modelling)
-  - [Technologies](/interpolants/#technologies)
-- [Interpolation](/interpolants/interpolation)
+  - [Data Warehousing](/interpolants/#data-warehousing-how-we-store-our-data)
+  - [Data Sources](/interpolants/#data-sources-where-we-get-our-data)
+  - [Web Applications](/interpolants/#web-applications-how-we-disseminate-our-data)
+  - [Open Data Products](/interpolants/#open-data-products-the-data-we-create)
+  - [Numerical Modelling](/interpolants/#numerical-modelling-how-we-help-make-informed-decisions)
+  - [Technologies](/interpolants/#technologies-the-tools-we-use)
+- [Interpolation of Surfaces](/interpolants/interpolation)
 - [Data Management](/interpolants/datamanagement)
 - [Tools](/interpolants/tools)
 
@@ -80,6 +80,8 @@ This is the home page for the documentation we have published in the form of ["G
 - [ORMGP subwatershed topology](https://owrc.shinyapps.io/sws23/)
 - [automated particle tracking](https://owrc.shinyapps.io/ptrack/) *test version, also available in partners' portal*
 - [automated baseflow pickup calculation](https://owrc.shinyapps.io/pickup/) *beta version, to be included in our partners' portal*
+
+
 
 # Help and Resources
 
