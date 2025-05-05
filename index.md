@@ -40,6 +40,7 @@ This is the home page for the documentation we have published in the form of ["G
   - [Open Data and Products](/interpolants/#open-data-products-the-data-we-create)
   - [Water Balance Modelling](https://owrc.github.io/interpolants/#regional-water-budget-long-term-and-continuous)
   - [Overland Drainage](https://owrc.github.io/interpolants/#elevation-drainage-and-topology)
+  = [Climate Data Source Reference](https://owrc.github.io/interpolants/sources/reference.html)
 
 ## ORMGP Programs and Services
 
