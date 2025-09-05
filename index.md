@@ -80,6 +80,7 @@ This is the home page for the documentation we have published in the form of ["G
 - [sHySpatialAnalysis (current state of the system)](https://owrc.shinyapps.io/sHySpatialAnalysis/)
 - [sHyMetDS (real-time climate data service)](https://owrc.shinyapps.io/sHyMetDS/?lat=44.138&lng=-79.113)
 - [ORMGP subwatershed topology](https://owrc.shinyapps.io/sws23/)
+- [ORMGP tiles server: available layers](https://owrc.shinyapps.io/tiletest/)
 - [automated particle tracking](https://owrc.shinyapps.io/ptrack/) *works best with Google Chrome browser--also available in partners' portal*
 - [automated baseflow pickup calculation](https://owrc.shinyapps.io/pickup/) *beta version, to be included in our partners' portal*
 
