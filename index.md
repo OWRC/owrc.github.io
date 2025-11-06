@@ -24,10 +24,28 @@ This is the home page for the documentation we have published in the form of ["G
 - [Support](https://owrc.github.io/support.html) -->
 
 
+## Programs and Services
+
+- [Monitoring](https://owrc.github.io/monitoring/)
+- [Web Mapping Themes](https://owrc.github.io/webmapping/)
+- [Near Real-time **Climate Data Service**](/interpolants/sources/climate-data-service.html)
+- [Numerical Model Custodianship Program](https://owrc.github.io/snapshots/md/numerical-model-custodianship-program.html)
+- [Database **Clip 'n Ship**](/interpolants/sources/clipnship.html)
+- [Document Library](https://partners.oakridgeswater.ca/DocumentSearchV2) -- *requires [partner access](https://www.oakridgeswater.ca/contact-us/)*
+- [Partner Maps](https://partners.oakridgeswater.ca/Maps) -- *requires [partner access](https://www.oakridgeswater.ca/contact-us/)*
+
+## Database Snapshots
+
+- [Database **Snapshots**](https://owrc.github.io/snapshots/)
+  - [Municipal well water quality status](https://owrc.github.io/snapshots/ctc/MunicipalWellWaterQualityStatus.html)
+  - [Groundwater variability](https://owrc.github.io/snapshots/md/gwvar.html)
+  - [Groundwater Flooding](https://owrc.github.io/snapshots/md/gwflooding.html)
+  - [Hydrograph separation](https://owrc.github.io/snapshots/md/baseflow-piechart.html)
+
 ## Data Sources and Management
 
 - [**Metadata**](https://owrc.github.io/metadata/content/toc.html) (for ORMGP-produced layers)
-- [External Data Sources](https://owrc.github.io/interpolants/sources/) regularly imported into our data warehouse
+- [External Data Sources](/interpolants/sources/) regularly imported into our data warehouse
 - [**Database** Manual](https://owrc.github.io/database-manual/Contents/TOC.html)
 - [Geologic Layer Development](https://owrc.github.io/GeoLayers/)
 - [Interpolation of Surfaces](/interpolants/interpolation)
@@ -36,24 +54,11 @@ This is the home page for the documentation we have published in the form of ["G
 - [Data Sources](/interpolants/#data-sources-where-we-get-our-data)
 - [Web Applications](/interpolants/#web-applications-how-we-disseminate-our-data) and [Tools](/interpolants/tools)
 - [Technologies](/interpolants/#technologies-the-tools-we-use)
-- [Data **Products** and Spatial **Interpolation**](https://owrc.github.io/interpolants/):
+- [Data **Products** and Spatial **Interpolation**](/interpolants/):
   - [Open Data and Products](/interpolants/#open-data-products-the-data-we-create)
-  - [Water Balance Modelling](https://owrc.github.io/interpolants/#regional-water-budget-long-term-and-continuous)
-  - [Overland Drainage](https://owrc.github.io/interpolants/#elevation-drainage-and-topology)
-  - [Climate Data Source Reference](https://owrc.github.io/interpolants/sources/reference.html)
-
-## ORMGP Programs and Services
-
-- [Monitoring](https://owrc.github.io/monitoring/)
-- [Web Mapping Themes](https://owrc.github.io/webmapping/)
-- Near Real-time [**Climate Data Service**](https://owrc.github.io/interpolants/sources/climate-data-service.html)
-- [Numerical Model Custodianship Program](https://owrc.github.io/snapshots/md/numerical-model-custodianship-program.html)
-- [Database **Snapshots**](https://owrc.github.io/snapshots/)
-  - [Municipal well water quality status](https://owrc.github.io/snapshots/ctc/MunicipalWellWaterQualityStatus.html)
-  - [Groundwater variability](https://owrc.github.io/snapshots/md/gwvar.html)
-  - [Hydrograph separation](https://owrc.github.io/snapshots/md/baseflow-piechart.html)
-- [**Clip 'n Ship**](https://owrc.github.io/interpolants/sources/clipnship.html)
-
+  - [Water Balance Modelling](/interpolants/#regional-water-budget-long-term-and-continuous)
+  - [Overland Drainage](/interpolants/#elevation-drainage-and-topology)
+  - [Climate Data Source Reference](/interpolants/sources/reference.html)
 
 
 ## Help and Resources
