@@ -128,6 +128,8 @@ This is the home page for the documentation we have published in the form of ["G
 
 ![](fig/ORMGP_3D.png)
 
+![](fig/ORMGP_3D-ORM.png)
+
 <br>
 
 ## Markdown "Cheatsheets"
